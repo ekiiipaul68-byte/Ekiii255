@@ -1,0 +1,3 @@
+cd Desktop\expresh-agent
+echo node_modules>.gitignore
+echo session>>.gitignore
